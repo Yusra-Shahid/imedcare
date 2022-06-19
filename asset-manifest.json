@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/imedcare/static/css/main.48ecfbd9.chunk.css",
+    "main.js": "/imedcare/static/js/main.5c75ada5.chunk.js",
+    "main.js.map": "/imedcare/static/js/main.5c75ada5.chunk.js.map",
+    "runtime-main.js": "/imedcare/static/js/runtime-main.33e97181.js",
+    "runtime-main.js.map": "/imedcare/static/js/runtime-main.33e97181.js.map",
+    "static/css/2.a959e80a.chunk.css": "/imedcare/static/css/2.a959e80a.chunk.css",
+    "static/js/2.6aa2c0c6.chunk.js": "/imedcare/static/js/2.6aa2c0c6.chunk.js",
+    "static/js/2.6aa2c0c6.chunk.js.map": "/imedcare/static/js/2.6aa2c0c6.chunk.js.map",
+    "static/js/3.79096e3f.chunk.js": "/imedcare/static/js/3.79096e3f.chunk.js",
+    "static/js/3.79096e3f.chunk.js.map": "/imedcare/static/js/3.79096e3f.chunk.js.map",
+    "index.html": "/imedcare/index.html",
+    "static/css/2.a959e80a.chunk.css.map": "/imedcare/static/css/2.a959e80a.chunk.css.map",
+    "static/css/main.48ecfbd9.chunk.css.map": "/imedcare/static/css/main.48ecfbd9.chunk.css.map",
+    "static/js/2.6aa2c0c6.chunk.js.LICENSE.txt": "/imedcare/static/js/2.6aa2c0c6.chunk.js.LICENSE.txt",
+    "static/media/Aero1.21c973ea.mp4": "/imedcare/static/media/Aero1.21c973ea.mp4",
+    "static/media/Viewdept.css": "/imedcare/static/media/p4.43569374.png",
+    "static/media/areo2.f354b2a1.mp4": "/imedcare/static/media/areo2.f354b2a1.mp4",
+    "static/media/bot.9fb4cc69.jpg": "/imedcare/static/media/bot.9fb4cc69.jpg",
+    "static/media/davgo.0892ad42.JPG": "/imedcare/static/media/davgo.0892ad42.JPG",
+    "static/media/dawai.affffc09.JPG": "/imedcare/static/media/dawai.affffc09.JPG",
+    "static/media/SignupPage.css": "/imedcare/static/media/formImage.d86b1dfd.jpg",
+    "static/media/D_profile.css": "/imedcare/static/media/p-d4.72a9376f.jpg",
+    "static/media/slider1.8ee9f430.jpg": "/imedcare/static/media/slider1.8ee9f430.jpg",
+    "static/media/slider2.07720a85.jpg": "/imedcare/static/media/slider2.07720a85.jpg",
+    "static/media/slider3.dce6643d.jpg": "/imedcare/static/media/slider3.dce6643d.jpg",
+    "static/media/store1.8cbd2ffe.JPG": "/imedcare/static/media/store1.8cbd2ffe.JPG",
+    "static/media/stre1.cd61c021.mp4": "/imedcare/static/media/stre1.cd61c021.mp4",
+    "static/media/stre2.9ab66973.mp4": "/imedcare/static/media/stre2.9ab66973.mp4",
+    "static/media/videoBg.865c0554.mp4": "/imedcare/static/media/videoBg.865c0554.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33e97181.js",
+    "static/css/2.a959e80a.chunk.css",
+    "static/js/2.6aa2c0c6.chunk.js",
+    "static/css/main.48ecfbd9.chunk.css",
+    "static/js/main.5c75ada5.chunk.js"
+  ]
+}
