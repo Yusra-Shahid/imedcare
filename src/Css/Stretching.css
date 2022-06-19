@@ -1,0 +1,130 @@
+.Stretch-fazul{
+    height: 80px;
+    width: 100%;
+    background-color: aqua;
+}
+    .stretch_ExContainer{
+        background-image: url('https://media-s3-us-east-1.ceros.com/rad-intelligence/images/2021/08/09/21045ce0546351c8bca7fe8bce0a8e36/pngkey-com-polygon-png-1220320.png');
+        background-color: #b4cee6ab;
+        background-size: cover;
+        height: 1800px;
+        width: 100%;
+        margin:0 auto;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        display: flex;
+        gap: 20px;
+       
+      }
+      .Main-Context{
+          width: 25%;
+          height: 3%;
+          font-size:x-large;
+          font-weight: lighter;
+          margin-top: -200px;
+          justify-content: center;
+      }
+     .Main-Context p{
+        font-size:30px;
+        font-weight: bold;
+        align-content: center;
+      }
+
+      .Stretching-video{
+        width: 85%;
+        height: 36%;
+        margin-top: 20px;
+        margin-left: 30px;
+        border-radius: 25px;
+        background-color: black;
+        box-shadow: rgba(50, 89, 216, 0.466) 0px 19px 38px, rgba(45, 99, 216, 0.404) 0px 15px 12px;
+      }
+      video{
+        width: 100%;
+        height: 100%;
+        border-radius: 25px
+      }
+      .Gendercard{
+          margin-bottom: 20px;
+          margin:0 auto;
+          justify-content:center;
+          align-items:center;
+          flex-direction:column;
+          display: flex;
+          gap: 50px;
+      }
+      .card_Container1{
+        width: 990px;
+        height: 300px;
+        background-color: rgba(188, 188, 214, 0.534);
+        flex-direction: row;
+        justify-content: left;
+        display: flex;
+        border-radius: 5px;
+        /* margin: 5px; */
+        margin-left: 15px;
+        margin-right: 5spx;
+        padding-top: 12px;
+        padding-left: 15px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    }
+    .card_Container2{
+      width: 990px;
+      height: 300px;
+      background-color: rgba(188, 188, 214, 0.534);
+      flex-direction: row;
+      justify-content: right;
+      display: flex;
+      border-radius: 5px;
+      /* margin: 5px; */
+      margin-left: 15px !important;
+      margin-right: 5spx;
+      padding-top: 12px;
+      padding-right: 15px;
+      box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+      .Sec-Context{
+        font-size:x-large;
+        font-weight:bold;
+        
+      }
+      .video {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+/*       
+      .content {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: white;
+      } */
+      
+      .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0,0,0,.4);
+        /* background-color: #000000cc; */
+      } 
+      .stre-text{
+        width: 490px;
+        height: 280px;
+        /* background-color: antiquewhite; */
+        margin-left: 30px;
+        padding-left: 5px;
+      }
+      .stre-text p{
+        font-size: 23px;
+        color:black;
+        font-weight: lighter;
+      }
